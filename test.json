@@ -1,0 +1,19 @@
+{
+  "files": [
+    {
+      "name": "Archivo1",
+      "url": "http://servidorpablo.ddns.net/s/BAqLeN4xGwZpjRC/download/DEVOURv4.2.12.rar",
+      "description": "DEVOUR v4.2.12"
+    },
+    {
+      "name": "Archivo2",
+      "url": "https://example.com/archivo2.zip",
+      "description": "Descripción del Archivo 2"
+    },
+    {
+      "name": "Archivo3",
+      "url": "https://example.com/archivo3.zip",
+      "description": "Descripción del Archivo 3"
+    }
+  ]
+}
